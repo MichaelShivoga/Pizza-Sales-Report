@@ -1,0 +1,2 @@
+This repository offers a comprehensive collection of SQL queries tailored for analyzing pizza sales data, seamlessly integrating Power BI aspects for enhanced visualization and deeper insights. 
+With a focus on revenue streams, average order values, total pizzas sold, and dynamic sales trends, these queries empower users to leverage Power BI's visualization capabilities to unlock actionable insights and drive informed decision-making in the competitive pizza market landscape.
